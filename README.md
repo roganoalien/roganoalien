@@ -35,3 +35,6 @@ Download CV in English (soon)
 - [x] Zeplin
 - [x] Adobe Xd
 - [x] Photoshop
+
+###### Experimented, Knowledge, tests with
+Npm, babel, stylus, less, git, jenkins, netlify, heroku, GraphQL, angular, context, handlebars, jquery, php, wordpress, strapi, stripe, etc
