@@ -9,6 +9,10 @@ Download CV in English (soon)
 
 #### These are my favoriet stack
 
+###### Learning Right Now
+
+- [x] React Native
+
 ###### Front-End
 
 - [x] React
