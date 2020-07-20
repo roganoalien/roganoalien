@@ -9,7 +9,7 @@ Download CV in English (soon)
 
 #### These are my favoriet stack
 
-###### Learning Right Now
+##### Learning Right Now
 
 - [x] React Native
 
