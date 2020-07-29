@@ -7,7 +7,17 @@ Download CV in English (soon)
 
 [https://rodrigogarcia.com.mx](https://rodrigogarcia.com.mx)
 
-#### These are my favoriet stack
+#### These are my favorites stacks
+
+| Front-End | Back-end & Server | Design |
+| --------- | ----------------- | ------ |
+| React | NodeJS | Sketch |
+| Vanilla JS | Express | Zeplin |
+| SaSS | MongoDB | Adobe Xd |
+| Pug | Deno | Photoshop |
+| Gulp | TypeScript/Vanilla JS | Photoshop |
+| Webpack | NGiNX | |
+| | Digital Ocean/Vercel | |
 
 ##### Learning Right Now
 
