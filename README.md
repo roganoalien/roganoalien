@@ -9,6 +9,11 @@ Download CV in English (soon)
 
 #### These are my favorites stacks
 
+| Learning Right Now |
+| ------------------ |
+| React Native |
+| Swift |
+
 | Front-End | Back-end & Server | Design |
 | --------- | ----------------- | ------ |
 | React | NodeJS | Sketch |
@@ -22,33 +27,6 @@ Download CV in English (soon)
 ##### Learning Right Now
 
 - [x] React Native
-
-###### Front-End
-
-- [x] React
-- [x] Vanilla JS
-- [x] SaSS
-- [x] Pug
-- [x] Gulp
-- [x] Webpack
-
-###### Back-End & Server
-
-- [x] NodeJS
-- [x] Express
-- [x] MongoDB
-- [x] Deno
-- [x] TypeScript/Vanilla JS
-- [x] NGiNX
-- [x] Digital Ocean
-- [x] Vercel
-
-###### Design Stack
-
-- [x] Sketch
-- [x] Zeplin
-- [x] Adobe Xd
-- [x] Photoshop
 
 ###### Experimented, Knowledge, tests with
 Npm, babel, stylus, less, git, jenkins, netlify, heroku, GraphQL, angular, context, handlebars, jquery, php, wordpress, strapi, stripe, etc
