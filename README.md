@@ -24,9 +24,5 @@ Download CV in English (soon)
 | Webpack | NGiNX | |
 | | Digital Ocean/Vercel | |
 
-##### Learning Right Now
-
-- [x] React Native
-
 ###### Experimented, Knowledge, tests with
 Npm, babel, stylus, less, git, jenkins, netlify, heroku, GraphQL, angular, context, handlebars, jquery, php, wordpress, strapi, stripe, etc
