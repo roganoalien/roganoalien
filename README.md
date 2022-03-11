@@ -16,7 +16,7 @@ Download CV in English (soon)
 | <p align="center"><img src="https://skillicons.dev/icons?i=react,swift" /></p> |
 | <p align="center">React Native & Swift</p> |
 
-#### My Front-End Stack
+<h3 align="center">My Front-End Stack</h3>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs" />
