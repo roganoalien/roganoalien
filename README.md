@@ -13,8 +13,8 @@ Download CV in English (soon)
 
 | Learning Right Now |
 | ------------------ |
-| React Native [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) |
-| Swift [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) |
+| <p align="center"><img src="https://skillicons.dev/icons?i=react,swift" /></p> |
+| <p align="center">React Native & Swift</p> |
 
 #### These are my favorites stacks
 
