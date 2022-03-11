@@ -3,9 +3,10 @@
 </div>
 Hi! I do fullstack dev focused on JavaScript and also UI/UX design. I'm currently living in Morelia, Mexico and I'm available for freelance, new projects or whatever experiment specially if is related with music and/or tech. In 2020 I was dominated as an MVP during the pandemic and in 2021 I got a reward as Solutions Creator both from Aeromexico.
 
+
 [Download CV in Spanish](https://drive.google.com/file/d/19gRRp2fzDyHPxdR6ekS7OBk-6YN8nDRZ/view?usp=sharing)
 
-Download CV in English (soon)
+[Download CV in English](https://drive.google.com/file/d/1ZG8xqEVdtrpT_Q1y3GFpMM3iUOR_GYbj/view?usp=sharing)
 
 [https://rodrigogarcia.com.mx](https://rodrigogarcia.com.mx)
 
