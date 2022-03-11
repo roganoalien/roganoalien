@@ -9,12 +9,18 @@ Download CV in English (soon)
 
 [https://rodrigogarcia.com.mx](https://rodrigogarcia.com.mx)
 
-### Currently learning
+#### Currently learning
 
 | Learning Right Now |
 | ------------------ |
 | <p align="center"><img src="https://skillicons.dev/icons?i=react,swift" /></p> |
 | <p align="center">React Native & Swift</p> |
+
+#### My Front-End Stack
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs" />
+</p>
 
 #### These are my favorites stacks
 
