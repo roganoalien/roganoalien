@@ -1,4 +1,6 @@
-## Hello 🤟🏼!
+<div align="center">
+    <h1> <img src="https://miaeromexico.sfo2.cdn.digitaloceanspaces.com/tests/logo-2022-marzo.png" width="80px"><br/>Prueba de markdown file</h1>
+</div>
 My name is **Rodrigo García** and I'm a **Creative Developer** which means I do *front-end and back-end* focused with **Javascript** but also do *UI/UX design*. I'm also a Digital Artist, Digital Invader, gamer, musician, early adopter and tech entusiastic. I like to always learn new things and keep in touch with new trends and practices. I can assume the leadership when needed and confident of my skills and knowledge.
 
 [Download CV in Spanish](https://drive.google.com/file/d/1sizpFTB5fTV5k9pIVMFQyzECOWiX9NsA/view?usp=sharing)
