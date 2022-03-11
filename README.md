@@ -19,20 +19,21 @@ Download CV in English (soon)
 <h3 align="center">My Front-End Stack</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,typescript,react,nextjs" />
 </p>
 
-#### These are my favorites stacks
+<h3 align="center">My Back-End Stack</h3>
 
-| Front-End | Back-end & Server | Design |
-| --------- | ----------------- | ------ |
-| React | NodeJS | Sketch |
-| Vanilla JS | Express | Zeplin |
-| SaSS | MongoDB | Adobe Xd |
-| Pug | Deno | Photoshop |
-| Gulp | TypeScript/Vanilla JS | Photoshop |
-| Webpack | NGiNX | |
-| | Digital Ocean/Vercel | |
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,typescript,deno,mongodb,postgres" />
+</p>
+
+<h3 align="center">My Design Stack</h3>
+
+<p align="center">
+    sketch, zeplin, adobexd, photoshop
+</p>
+
 
 ###### Experimented, Knowledge, tests with
-Npm, babel, stylus, less, git, jenkins, netlify, heroku, GraphQL, angular, context, handlebars, jquery, php, wordpress, strapi, stripe, etc
+npm, babel, stylus, less, git, jenkins, netlify, heroku, GraphQL, angular, context, handlebars, jquery, php, wordpress, strapi, stripe, etc
