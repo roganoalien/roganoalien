@@ -1,20 +1,22 @@
 <div align="center">
     <h1> <img src="https://miaeromexico.sfo2.cdn.digitaloceanspaces.com/tests/logo-2022-marzo-single.png" width="100px"><br/>Rodrigo García</h1>
 </div>
-My name is **Rodrigo García** and I'm a **Creative Developer** which means I do *front-end and back-end* focused with **Javascript** but also do *UI/UX design*. I'm also a Digital Artist, Digital Invader, gamer, musician, early adopter and tech entusiastic. I like to always learn new things and keep in touch with new trends and practices. I can assume the leadership when needed and confident of my skills and knowledge.
+Hi! I do fullstack dev focused on JavaScript and also UI/UX design. I'm currently living in Morelia, Mexico and I'm available for freelance, new projects or whatever experiment specially if is related with music and/or tech. In 2020 I was dominated as an MVP during the pandemic and in 2021 I got a reward as Solutions Creator both from Aeromexico.
 
-[Download CV in Spanish](https://drive.google.com/file/d/1sizpFTB5fTV5k9pIVMFQyzECOWiX9NsA/view?usp=sharing)
+[Download CV in Spanish](https://drive.google.com/file/d/19gRRp2fzDyHPxdR6ekS7OBk-6YN8nDRZ/view?usp=sharing)
 
 Download CV in English (soon)
 
 [https://rodrigogarcia.com.mx](https://rodrigogarcia.com.mx)
 
-#### These are my favorites stacks
+### Currently learning
 
 | Learning Right Now |
 | ------------------ |
-| React Native |
-| Swift |
+| React Native [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) |
+| Swift [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) |
+
+#### These are my favorites stacks
 
 | Front-End | Back-end & Server | Design |
 | --------- | ----------------- | ------ |
